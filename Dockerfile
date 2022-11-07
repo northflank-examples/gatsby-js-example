@@ -1,5 +1,5 @@
 # Use the full Node image to perform package install
-FROM node:14-alpine AS builder
+FROM node:18-alpine AS builder
 RUN apk add --no-cache \
     autoconf \
     libtool \
