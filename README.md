@@ -4,11 +4,12 @@
     <img alt="Northflank" align="right" src="/media/logo.svg" width="35%" />
 </a>
 
-Deploy this Gatsby site easily with [Northflank](https://www.northflank.com):
+Deploy this template easily on [Northflank](https://www.northflank.com) by selecting the Gatsby.js template when creating a new service.
 
-- Clone this repository
-- Select the repository in Northflank when creating a new service
-- Expose port 80
+Alternatively you can:
+
+- Clone this repository to your Git account
+- Select this repository in Northflank when creating a new service
 - Wait for the app to build and visit the newly assigned URL. That's it!
 
 ### Live Demo
